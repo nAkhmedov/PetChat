@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="conversation_back">Back</string>
+    <string name="conversation_input_placeholder">Message</string>
+    <string name="conversation_send">Send</string>
+    <string name="conversation_jump_to_bottom">Scroll to the newest message</string>
+    <string name="conversation_load_failed_retry">Couldn\'t load older messages. Tap to retry</string>
+    <string name="conversation_error_too_long">Message is too long</string>
+    <string name="conversation_today">Today</string>
+    <string name="conversation_yesterday">Yesterday</string>
+    <string name="conversation_subtitle_online">online</string>
+    <string name="conversation_subtitle_last_seen">last seen recently</string>
+    <string name="conversation_subtitle_group">group</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="core_ui_waiting_for_network">Waiting for network…</string>
+    <string name="core_ui_connecting">Connecting…</string>
+
+    <string name="core_ui_status_pending">Sending</string>
+    <string name="core_ui_status_sent">Sent</string>
+    <string name="core_ui_status_delivered">Delivered</string>
+    <string name="core_ui_status_read">Read</string>
+    <string name="core_ui_status_failed">Not sent, tap to retry</string>
+</resources>
